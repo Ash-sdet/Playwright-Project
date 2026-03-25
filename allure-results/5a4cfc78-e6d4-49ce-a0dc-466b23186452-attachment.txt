@@ -1,0 +1,4 @@
+[2026-03-25T12:32:17.750Z] Entered username: standard_user
+[2026-03-25T12:32:18.224Z] Entered password
+[2026-03-25T12:32:22.583Z] Clicked login button
+[2026-03-25T12:32:22.970Z] Selected sort option: lohi

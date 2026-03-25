@@ -1,0 +1,7 @@
+[2026-03-25T12:34:06.165Z] Entered username: standard_user
+[2026-03-25T12:34:06.324Z] Entered password
+[2026-03-25T12:34:06.514Z] Clicked login button
+[2026-03-25T12:34:06.780Z] Added Sauce Labs Backpack to cart
+[2026-03-25T12:34:07.018Z] Navigated to cart
+[2026-03-25T12:34:07.278Z] Proceeded to checkout
+[2026-03-25T12:34:07.602Z] Clicked cancel

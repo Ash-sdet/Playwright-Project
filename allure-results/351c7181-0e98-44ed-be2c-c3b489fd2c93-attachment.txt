@@ -1,0 +1,3 @@
+[2026-03-25T12:32:10.215Z] Entered username: standard_user
+[2026-03-25T12:32:10.454Z] Entered password
+[2026-03-25T12:32:10.934Z] Clicked login button

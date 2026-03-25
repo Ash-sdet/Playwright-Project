@@ -1,0 +1,9 @@
+[2026-03-25T12:31:20.252Z] Entered username: standard_user
+[2026-03-25T12:31:20.594Z] Entered password
+[2026-03-25T12:31:22.627Z] Clicked login button
+[2026-03-25T12:31:24.958Z] Added Sauce Labs Backpack to cart
+[2026-03-25T12:31:29.141Z] Navigated to cart
+[2026-03-25T12:31:33.596Z] Proceeded to checkout
+[2026-03-25T12:31:38.050Z] Entered first name: John
+[2026-03-25T12:31:39.706Z] Entered last name: 
+[2026-03-25T12:31:52.018Z] Entered zip code: 12345

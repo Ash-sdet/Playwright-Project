@@ -1,0 +1,16 @@
+[2026-03-25T12:33:52.430Z] Entered username: standard_user
+[2026-03-25T12:33:52.868Z] Entered password
+[2026-03-25T12:33:55.666Z] Clicked login button
+[2026-03-25T12:33:56.838Z] Added Sauce Labs Backpack to cart
+[2026-03-25T12:33:57.037Z] Added Sauce Labs Bike Light to cart
+[2026-03-25T12:33:57.325Z] Added Sauce Labs Bolt T-Shirt to cart
+[2026-03-25T12:33:57.566Z] Added Sauce Labs Fleece Jacket to cart
+[2026-03-25T12:33:57.723Z] Added Sauce Labs Onesie to cart
+[2026-03-25T12:33:57.951Z] Added Test.allTheThings() T-Shirt (Red) to cart
+[2026-03-25T12:33:58.171Z] Navigated to cart
+[2026-03-25T12:33:58.490Z] Removed Sauce Labs Backpack from cart
+[2026-03-25T12:33:58.688Z] Removed Sauce Labs Bike Light from cart
+[2026-03-25T12:33:58.802Z] Removed Sauce Labs Bolt T-Shirt from cart
+[2026-03-25T12:33:58.952Z] Removed Sauce Labs Fleece Jacket from cart
+[2026-03-25T12:33:59.099Z] Removed Sauce Labs Onesie from cart
+[2026-03-25T12:33:59.204Z] Removed Test.allTheThings() T-Shirt (Red) from cart

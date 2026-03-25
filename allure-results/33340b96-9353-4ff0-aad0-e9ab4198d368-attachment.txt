@@ -1,0 +1,4 @@
+[2026-03-25T12:32:17.038Z] Entered username: standard_user
+[2026-03-25T12:32:17.213Z] Entered password
+[2026-03-25T12:32:17.850Z] Clicked login button
+[2026-03-25T12:32:18.168Z] Selected sort option: za

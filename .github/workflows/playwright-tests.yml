@@ -39,3 +39,15 @@ jobs:
         with:
           name: playwright-report-${{ matrix.browser }}
           path: playwright-report
+
+      - name: Upload Allure Report
+        uses: actions/upload-artifact@v4
+        with:
+         name: allure-report
+         path: allure-report
+
+      - name: Upload Screenshots
+        uses: actions/upload-artifact@v4
+        with:
+         name: test-screenshots
+         path: test-results   
