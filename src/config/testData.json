@@ -1,0 +1,44 @@
+{
+  "baseUrl": "https://www.saucedemo.com/",
+  "users": {
+    "valid": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "locked": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    "problem": {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    "performance": {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce"
+    },
+    "invalid": {
+      "username": "invalid_user",
+      "password": "invalid_pass"
+    }
+  },
+  "products": {
+    "backpack": "Sauce Labs Backpack",
+    "bikeLight": "Sauce Labs Bike Light",
+    "boltTShirt": "Sauce Labs Bolt T-Shirt",
+    "fleeceJacket": "Sauce Labs Fleece Jacket",
+    "onesie": "Sauce Labs Onesie"
+  },
+  "checkout": {
+    "valid": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "zipCode": "12345"
+    },
+    "invalid": {
+      "firstName": "",
+      "lastName": "",
+      "zipCode": ""
+    }
+  }
+}
